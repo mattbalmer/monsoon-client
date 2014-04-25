@@ -1,0 +1,29 @@
+{
+    "name": "monsoon",
+    "main": "monsoon.min.js",
+    "version": "0.1.2",
+    "description": "Allows for easy & extensible CRUD REST API usage (works with the monsoon package for NodeJS servers)",
+    "keywords": [
+        "monsoon",
+        "schema",
+        "rest",
+        "restful",
+        "crud",
+        "api",
+        "nodejs",
+        "node",
+        "ajax",
+        "angular"
+    ],
+    "authors": [
+        "Matt Balmer <matt@mattbalmer.com>"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
