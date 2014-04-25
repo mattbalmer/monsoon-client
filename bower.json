@@ -2,7 +2,7 @@
     "name": "monsoon",
     "main": "monsoon.min.js",
     "version": "0.1.2",
-    "homepage": "https://github.com/mattbalmer/monsoon.js",
+    "homepage": "https://github.com/mattbalmer/monsoon-client",
     "description": "Allows for easy & extensible CRUD REST API usage (works with the monsoon package for NodeJS servers)",
     "keywords": [
         "monsoon",
@@ -21,10 +21,6 @@
     ],
     "license": "MIT",
     "ignore": [
-        "**/.*",
-        "node_modules",
-        "bower_components",
-        "test",
-        "tests"
+        ".idea"
     ]
 }
